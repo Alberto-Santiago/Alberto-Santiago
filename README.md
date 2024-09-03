@@ -33,8 +33,8 @@ I'm a dedicated **Full Stack Web Developer** and a senior Computer Science stude
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/alberto-santiago/)
-- [Email](mailto:alberto.santiago@example.com)
+- [LinkedIn](https://www.linkedin.com/in/alberto-santiago01/)
+- [Email](mailto:alberto.connect.me@gmail.com.com)
 
 ## 📈 GitHub Stats
 
