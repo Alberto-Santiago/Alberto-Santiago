@@ -1,6 +1,5 @@
 # Hi there, I'm Alberto Santiago 👋
-
-I'm a dedicated **Full Stack Web Developer** and a senior Computer Science student, with a diverse set of skills. I enjoy tackling new challenges and continuously improving my skills in both front-end and back-end development.
+I'm a dedicated **Full Stack Web Developer** and a graduate Computer Science student, with a diverse set of skills. I enjoy getting hands-on with new challenges and continuously improving my skills in both front-end and back-end development.
 
 ## 🚀 Skills
 
